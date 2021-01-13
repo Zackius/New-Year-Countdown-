@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background: linear-gradient(to left, white, snow, rgb(255, 228, 228) grey);
+    background-position: center center;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.count-container{
+     display: flex;
+}
+.big-text{
+    font-size: 7rem;
+    font-weight: 7;
+    line-height: 1;
+    margin: 0 2rem;
+    
+}
+.count{
+ text-align: center;
+}
+.count-container span{
+    font-size: 2rem;
+}
