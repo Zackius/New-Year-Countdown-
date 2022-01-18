@@ -4,7 +4,7 @@
       let minutes1= document.getElementById("minutes")
       let seconds1 = document.getElementById("seconds")
 
-     let newYear = new Date("Jan 1, 2022");
+     let newYear = new Date("Jan 1, 2023");
 
      function countdown() {
      

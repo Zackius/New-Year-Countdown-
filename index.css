@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background: linear-gradient(to left, white, snow, rgb(255, 228, 228) grey);
+    background: linear-gradient(to left, white, grey , rgb(225, 171, 152), maroon);
     background-position: center center;
     background-size: cover;
     align-items: center;
